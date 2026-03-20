@@ -1,5 +1,4 @@
 <h1 align="center"> ⚙️ Auto Stock Trader 💵 </h1>
-
 <p align="center">An <i>awesome</i> repository containing scripts and projects for automating stock orders across multiple brokerages.</p>
 
 <p align="right"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><a href="https://github.com/sponsors/Prem-ium" target="_blank">
@@ -7,6 +6,27 @@
 <p align="center">
     <img src="https://github.com/Prem-ium/Auto-StockTrader/blob/main/.github/assets/Auto-StockTrader-Banner.jpeg?raw=true" alt="Auto Stock Trader Banner">
 </p>
+
+---
+## ⚠️ Public Version Support Notice
+
+> **Effective immediately**, the public version of **Auto Stock Trader** will **no longer receive updates, maintenance, or support**.
+
+* This repository is now considered **final and “as-is”**.
+* No further fixes will be made for **UI changes, broken selectors, or brokerage updates**.
+* Compatibility may degrade over time as brokerages update their platforms.
+
+### 🔒 Ongoing Development
+
+All active development has moved to the **private Gold Sponsor version**, which includes:
+
+* ✅ Continuous updates to support the **latest brokerage UI changes**
+* ✅ Bug fixes and performance improvements
+* ✅ New features and automation enhancements
+
+If you require a **maintained, up-to-date version**, you must use the Gold Sponsor release.
+
+👉 [Become a Gold Sponsor to access the latest version](https://github.com/sponsors/Prem-ium/sponsorships?sponsor=Prem-ium&tier_id=308205&preview=false)
 
 ---
 ## Features 🚀
