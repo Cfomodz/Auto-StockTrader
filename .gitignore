@@ -3,3 +3,4 @@
 test*
 ENV-*
 Master Test Suite.side
+__pycache__/
